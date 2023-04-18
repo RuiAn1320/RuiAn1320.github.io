@@ -8,7 +8,6 @@ bkimage: '/images/bk1.jpg'
 author:
   name: 'Rui An'
   email: anrui@usc.edu
-#  facebook_username: joshgerdes
 
 # Build settings
 destination: _site
@@ -26,4 +25,3 @@ kramdown:
   hard_wrap: false
 
 #plugins: ['jekyll-paginate']
-exclude: ['README.md', 'screenshot-overview.png']
