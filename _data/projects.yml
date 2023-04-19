@@ -11,7 +11,7 @@
 - name: Testing a quintessence model with Yukawa interaction from cosmological observations and N-body simulations
   arxiv: 1809.03224
   desc: We consider a quintessence model with Yukawa interaction between dark energy and dark matter and constrain this model by employing the recent cosmological data. We find that an interaction in the dark sector is compatible with observations. The Yukawa interaction model is found to be moderately favored by Planck and able to alleviate the discordance between weak lensing measurements and CMB measurements as previously inferred from the standard Lambda cold dark matter model. N-body simulations for Yukawa interaction model is also performed. We find that using the halo density profile is plausible to improve the constraints significantly in the future.
-  img: images/figures/yukawa.png
+  img: images/figures/Yukawa.png
 
 - name: Relieving the Tension between Weak Lensing and Cosmic Microwave Background with Interacting Dark Matter and Dark Energy Models
   arxiv: 1711.06799
