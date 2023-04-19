@@ -7,7 +7,6 @@ bkimage: '/images/bk2.jpg'
 
 author:
   name: 'Rui An'
-  email: anrui@usc.edu
   
 # Build settings
 destination: _site
