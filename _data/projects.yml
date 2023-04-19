@@ -2,3 +2,8 @@
   arxiv: 2301.08299
   desc: Sterile neutrinos produced through self-interactions of active neutrinos have received attention as a particle candidate that can yield the entire observed DM relic abundance without violating the most stringent constraints from X-ray observations. We examine consistency of this production mechanism with the abundance of small-scale structure in the universe, as captured by the population of ultra-faint dwarf galaxies orbiting the Milky Way.
   img: images/figures/SNuDM.png
+
+- name: What does cosmology tell us about the mass of thermal-relic dark matter?
+  arxiv: 2202.03515
+  desc: The presence of light thermally coupled dark matter affects early expansion history and production of light elements during the Big Bang Nucleosynthesis. Specifically, dark matter that annihilates into Standard Model particles can modify the effective number of light species in the universe Neff, as well as the abundance of light elements created buring BBN. These quantities in turn affect the cosmic microwave background (CMB) anisotropy. We present the first joint analysis of small-scale temperature and polarization CMB anisotropy from Atacama Cosmology Telescope (ACT) and South Pole Telescope (SPT), together with Planck data and the recent primordial abundance measurements of helium and deuterium to place comprehensive bounds on the mass of light thermal-relic dark matter. 
+  img: images/figures/BBN.png
