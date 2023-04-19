@@ -18,13 +18,7 @@ robots: noindex
             <h4><a href="https://arxiv.org/abs/{{ project.arxiv }}" target="_blank">{{ project.name }}</a></h4>
           </div>
           <div class="timeline-body">
-            {% if project.desc %}
-              {{ project.desc | markdownify }}
-            {% else %}
-            <div repotext="{{ project.repo }}">
-              <span class="desc"></div>
-            </div>
-            {% endif %}
+            {{ project.desc | markdownify }}
             <!--
             <div user="{{ project.gh_user }}" repo="{{ project.repo }}" class="ghbtn" style="margin-top: 10px;">
               <a target="_blank" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/stargazers"><i class="fa fa-star"></i><span class="star"> ...</span></a>&emsp;&emsp;
