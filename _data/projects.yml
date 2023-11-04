@@ -20,7 +20,7 @@
 
 - name: What does cosmology tell us about the mass of thermal-relic dark matter?
   arxiv: 2202.03515
-  desc: The presence of light thermally coupled dark matter affects early expansion history and production of light elements during the Big Bang Nucleosynthesis (BBN). Specifically, dark matter that annihilates into Standard Model particles can modify the effective number of light species in the universe Neff, as well as the abundance of light elements created buring BBN. These quantities in turn affect the cosmic microwave background (CMB) anisotropy. We present the first joint analysis of small-scale temperature and polarization CMB anisotropy from ACT and SPT, together with Planck data and the recent primordial abundance measurements of helium and deuterium to place comprehensive bounds on the mass of light thermal-relic dark matter. 
+  desc: The presence of light thermally coupled dark matter affects early expansion history and production of light elements during the Big Bang Nucleosynthesis. Specifically, dark matter that annihilates into Standard Model particles can modify the effective number of light species in the universe Neff, as well as the abundance of light elements created buring BBN. These quantities in turn affect the cosmic microwave background anisotropy. We present the first joint analysis of small-scale temperature and polarization CMB anisotropy from ACT and SPT, together with Planck data and the recent primordial abundance measurements to place comprehensive bounds on the mass of light thermal-relic dark matter. 
   img: images/figures/BBN.png
 
 - name: Testing a quintessence model with Yukawa interaction from cosmological observations and N-body simulations
