@@ -25,12 +25,12 @@
 
 - name: Testing a quintessence model with Yukawa interaction from cosmological observations and N-body simulations
   arxiv: 1809.03224
-  desc: We consider a quintessence model with Yukawa interaction between dark energy and dark matter and constrain this model by employing the recent cosmological data. We find that an interaction in the dark sector is compatible with observations. The Yukawa interaction model is found to be moderately favored by Planck and able to alleviate the discordance between weak lensing measurements and CMB measurements as previously inferred from the standard Lambda cold dark matter model. N-body simulations for Yukawa interaction model is also performed. We find that using the halo density profile is plausible to improve the constraints significantly in the future.
+  desc: We consider a quintessence model with Yukawa interaction between dark energy and dark matter and constrain this model by employing the recent cosmological data. We find that an interaction in the dark sector is compatible with observations. The Yukawa interaction model is found to be moderately favored by Planck and able to alleviate the discordance between weak lensing measurements and CMB measurements as previously inferred from the standard ΛCDM model. N-body simulations for Yukawa interaction model is also performed. We find that using the halo density profile is plausible to improve the constraints significantly in the future.
   img: images/figures/Yukawa.png
 
 - name: The first constraint from SDSS galaxy-galaxy weak lensing measurements on interacting dark energy models
   arxiv: 1807.05522
-  desc: We combine constraints from linear and nonlinear scales, for the first time, to study the interaction between dark matter and dark energy. By comparing our simulation results with the SDSS galaxy-galaxy weak lensing measurements, we point to plausible improvements on the constraints of interaction strength by using small scale information from weak lensing, compared with the previous studies using linear examinations.
+  desc: We combine constraints from linear and nonlinear scales, for the first time, to study the interaction between dark matter and dark energy. By comparing our simulation results with the SDSS galaxy-galaxy weak lensing measurements, we point to plausible improvements on the constraints of interaction strength by using small scale information from weak lensing, comparing to the previous studies using linear examinations.
   img: images/figures/Constraints_IDMDE.png
 
 - name: A Fully Self-Consistent Cosmological Simulation Pipeline for Interacting Dark Energy Models
@@ -45,5 +45,5 @@
 
 - name: Dynamical analysis of modified gravity with nonminimal gravitational coupling to matter
   arxiv: 1512.09281
-  desc: We perform a phase space analysis of a generalized modified gravity theory with nonminimally coupling between geometry and matter. We prove that there is an attractor solution to describe the late time accelerating universe when the modi- fied gravity is chosen in a simple power-law form of the curvature scalar. Confronting the model with supernova type Ia data sets, we find that the nonminimally coupled theory of gravity is a viable model to describe the late time Universe acceleration.
+  desc: We perform a phase space analysis of a generalized modified gravity theory with nonminimally coupling between geometry and matter. We prove that there is an attractor solution to describe the late time accelerating universe when the modified gravity is chosen in a simple power-law form of the curvature scalar. Confronting the model with supernova type Ia data sets, we find that the nonminimally coupled theory of gravity is a viable model to describe the late time Universe acceleration.
   img: images/figures/fR.png
